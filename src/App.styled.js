@@ -3,7 +3,7 @@ import { FaRegArrowAltCircleLeft } from "react-icons/fa";
 import { FaRegArrowAltCircleRight } from "react-icons/fa";
 
 export const AppStyle = styled.div`
-  width: 1200px;
+  width: 1300px;
   overflow: hidden;
   margin-left: auto;
   margin-right: auto;
@@ -14,7 +14,6 @@ export const ArroLeft = styled(FaRegArrowAltCircleLeft)`
   overflow: visible;
   fill: black;
   background-color: white;
-
   width: 30px;
   height: 30px;
   border-radius: 50%;
